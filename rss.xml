@@ -4,8 +4,15 @@
         <description><![CDATA[Petri Jarvinen]]></description>
         <link>http://petrijarvinen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 12:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 12:45:12 GMT</lastBuildDate>
         <atom:link href="http://petrijarvinen.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marketers ]]></title>
+            <description><![CDATA[<article><h1>Marketers </h1><p>Marketers You Can Trust.</p></article>]]></description>
+            <link>http://petrijarvinen.com/menu/index.html</link>
+            <guid isPermaLink="false">6264a1a6-b6e0-451d-9c11-196c64aa7b82</guid>
+            <pubDate>Thu, 03 Mar 2016 12:44:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Resources]]></title>
             <description><![CDATA[<h1>Resources</h1>]]></description>
