@@ -1,9 +1,9 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - work
   - minutes
@@ -16,8 +16,8 @@ keywords:
   - wanna
   - motivation
 description: "zen focus \"I can't get any work done because I'm always distracted by something\" \"I can't focus for more than 10 minutes\" \"I keep procrastinating on everything\" These are the most common problems I hear when I'm trying to help someone out. I wasn't the most productive guy a few years ago."
-datePublished: '2016-03-03T12:19:00.400Z'
-dateModified: '2016-03-03T12:18:57.875Z'
+datePublished: '2016-03-03T12:23:49.835Z'
+dateModified: '2016-03-03T12:21:03.799Z'
 author: []
 related:
   - score: 0.6436181664
@@ -43,14 +43,14 @@ related:
     thumbnail_width: 970
 app_links: []
 title: How to Focus in the A.D.D Generation - CharlesNgo.com
+sourcePath: _posts/2016-03-03-how-to-focus-in-the-add-generation-charlesngocom.md
+published: true
 authors: []
 publisher:
   name: CharlesNgo.com
   domain: charlesngo.com
   url: 'http://charlesngo.com'
   favicon: 'http://charlesngo.com/wp-content/uploads/2014/11/favi.png'
-sourcePath: _posts/2016-03-03-how-to-focus-in-the-add-generation-charlesngocom.md
-published: true
 url: how-to-focus-in-the-add-generation-charlesngocom/index.html
 _context: 'http://schema.org'
 _type: MediaObject
