@@ -1,18 +1,9 @@
 ---
-author: []
-related:
-  - score: 0.5365161896
-    description: 'When your nose is constantly to the grindstone, sometimes it is hard to eat your meals on time, much less get perspective on anything else that is going on. As entrepreneurs, we often have periods when we are frenetically trying to balance a million work-related things at once, but it is neither effective nor sustainable to operate that way.'
-    title: 7 Life Hacks to Be Productive Instead of Just Busy
-    url: 'http://www.entrepreneur.com/article/248781'
-    thumbnail_height: 548
-    thumbnail_url: 'https://assets.entrepreneur.com/content/3x2/822/1414013077-forget-lifehacks-form-good-habits-instead.jpg'
-    thumbnail_width: 822
-publisher:
-  url: 'http://charlesngo.com'
-  name: CharlesNgo.com
-  favicon: 'http://charlesngo.com/wp-content/uploads/2014/11/favi.png'
-  domain: charlesngo.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - willpower
   - marshmellow
@@ -25,17 +16,28 @@ keywords:
   - gratification
   - dopamine
 description: "The Willpower Instinct by Kelly McGonigal. If there's one thing we could all use more of, it's self-control. Think about the most successful people you know vs. the ones that aren't. What's the main difference? It's their self-control and their ability to continuously do the right actions."
-inLanguage: en
+datePublished: '2016-03-03T12:30:36.114Z'
+dateModified: '2016-03-03T12:28:27.476Z'
+author: []
+related:
+  - score: 0.5365161896
+    description: 'When your nose is constantly to the grindstone, sometimes it is hard to eat your meals on time, much less get perspective on anything else that is going on. As entrepreneurs, we often have periods when we are frenetically trying to balance a million work-related things at once, but it is neither effective nor sustainable to operate that way.'
+    title: 7 Life Hacks to Be Productive Instead of Just Busy
+    url: 'http://www.entrepreneur.com/article/248781'
+    thumbnail_height: 548
+    thumbnail_url: 'https://assets.entrepreneur.com/content/3x2/822/1414013077-forget-lifehacks-form-good-habits-instead.jpg'
+    thumbnail_width: 822
 app_links: []
-isBasedOnUrl: 'http://charlesngo.com/the-willpower-instinct-kelly-mcgonigal/'
 title: 'Book Review: The Willpower Instinct by Kelly McGonigal - CharlesNgo.com'
-datePublished: '2016-03-03T12:28:25.598Z'
-dateModified: '2016-03-03T12:26:55.051Z'
+authors: []
+publisher:
+  name: CharlesNgo.com
+  domain: charlesngo.com
+  url: 'http://charlesngo.com'
+  favicon: 'http://charlesngo.com/wp-content/uploads/2014/11/favi.png'
 sourcePath: _posts/2016-03-03-book-review-the-willpower-instinct-by-kelly-mcgonigal-cha.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+url: book-review-the-willpower-instinct-by-kelly-mcgonigal-cha/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
