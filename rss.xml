@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Petri Jarvinen]]></title>
         <description><![CDATA[Petri Jarvinen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://petrijarvinen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 12:16:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 12:19:14 GMT</lastBuildDate>
+        <atom:link href="http://petrijarvinen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Marketers ]]></title>
             <description><![CDATA[<article><h1>Marketers </h1><p>Marketers You Can Trust.</p></article>]]></description>
-            <link>undefinedmenu/index.html</link>
+            <link>http://petrijarvinen.com/menu/index.html</link>
             <guid isPermaLink="false">6264a1a6-b6e0-451d-9c11-196c64aa7b82</guid>
-            <pubDate>Thu, 03 Mar 2016 12:16:34 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 12:19:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
