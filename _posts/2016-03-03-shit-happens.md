@@ -7,16 +7,16 @@ inLanguage: null
 starred: false
 keywords: []
 description: Get over it
-datePublished: '2016-03-03T15:48:55.649Z'
-dateModified: '2016-03-03T15:48:21.197Z'
+datePublished: '2016-03-03T15:58:32.292Z'
+dateModified: '2016-03-03T15:48:58.672Z'
 title: Shit happens
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 sourcePath: _posts/2016-03-03-shit-happens.md
 published: true
 _type: Blurb
