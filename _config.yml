@@ -1,0 +1,28 @@
+name: Petri Jarvinen
+favicon: null
+layout_spectrum: 0.875772712752223
+typography_spectrum: 0.8866435587406158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8617851135786623
+  lightness: 0.38192969700321555
+  saturation: 0.2013106665108353
+  rhythmicContrast: 0.629580800421536
+purpose: []
