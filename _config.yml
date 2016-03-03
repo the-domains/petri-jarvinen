@@ -1,6 +1,6 @@
 name: Petri Jarvinen
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.8866435587406158
 title: Petri Jarvinen
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8617851135786623
-  lightness: 0.38192969700321555
-  saturation: 0.2013106665108353
-  rhythmicContrast: 0.629580800421536
+    - '#1d91ff'
+    - '#9bdbc3'
+    - '#000912'
+    - '#0045b8'
+    - '#7c5600'
+  brandStrength: 0.4375
+  lightness: 0.625
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
