@@ -4,7 +4,7 @@
         <description><![CDATA[Petri Jarvinen]]></description>
         <link>http://petrijarvinen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 14:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 15:20:23 GMT</lastBuildDate>
         <atom:link href="http://petrijarvinen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://petrijarvinen.com/072160fc-8d89-4884-a379-57b01e075b22/index.html</link>
             <guid isPermaLink="false">072160fc-8d89-4884-a379-57b01e075b22</guid>
             <pubDate>Thu, 03 Mar 2016 14:18:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Hi There.. </p></article>]]></description>
+            <link>http://petrijarvinen.com/about/index.html</link>
+            <guid isPermaLink="false">2292bc4a-029b-4981-b868-c0c1a03a2312</guid>
+            <pubDate>Thu, 03 Mar 2016 15:18:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
