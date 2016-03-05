@@ -1,6 +1,6 @@
 name: Petri Jarvinen
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.35351
 typography_spectrum: 1
 title: Petri Jarvinen
 cta:
@@ -23,7 +23,7 @@ color:
     - '#788387'
     - '#dfbf76'
   brandStrength: 0.125
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.3125
+  saturation: 0.3125
   rhythmicContrast: 0.25
 purpose: []
