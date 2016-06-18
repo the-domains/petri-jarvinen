@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-06-18T20:02:04.412Z'
-datePublished: '2016-06-18T20:02:12.519Z'
+dateModified: '2016-06-18T20:03:47.425Z'
+datePublished: '2016-06-18T20:04:08.746Z'
 description: Stuck or dont know where to begin?
 inFeed: true
 title: So you need help with your marketing...
@@ -17,4 +17,4 @@ Stuck or dont know where to begin?
 
 I can help you get your shit together!
 
-IF you Take the time to time me
+IF you Take the time to find me
