@@ -16,6 +16,10 @@ analytics:
   facebook: '1534878076823920'
   google: UA-79784396-1
   twitter: null
+author:
+  name: petri jarvinen
+  email: petri@jarvinen.se
+  url: 'http://petrijarvinen.com'
 name: Petri Jarvinen
 cta: {}
 purpose: []
