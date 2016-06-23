@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 1
 color:
   brandColors:
     - '#f8ffff'
@@ -10,9 +10,9 @@ color:
   lightness: 0.4375
   rhythmicContrast: 0.75
   saturation: 0.3125
-cta: {}
-layout_spectrum: 0.359375
-name: Petri Jarvinen
 opengraph: {}
+layout_spectrum: 0.359375
+analytics: {}
+name: Petri Jarvinen
+cta: {}
 purpose: []
-typography_spectrum: 1
