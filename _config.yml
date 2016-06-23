@@ -12,7 +12,10 @@ color:
   saturation: 0.3125
 opengraph: {}
 layout_spectrum: 0.359375
-analytics: {}
+analytics:
+  facebook: '1534878076823920'
+  google: UA-79784396-1
+  twitter: null
 name: Petri Jarvinen
 cta: {}
 purpose: []
