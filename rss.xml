@@ -4,7 +4,7 @@
         <description><![CDATA[Marketing]]></description>
         <link>http://petrijarvinen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 20:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 20:24:58 GMT</lastBuildDate>
         <atom:link href="http://petrijarvinen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Sat, 05 Mar 2016 13:52:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Music / Marketing / Madness]]></title>
+            <description><![CDATA[<article><h1>Music / Marketing / Madness</h1><p>You dont follow Malan? You are missing out.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dca5d4f88035edcfe283ad82f541aeae/noop.jpg?input=http%3A%2F%2Fwww.malandarras.com%2Fwp-content%2Fuploads%2F2013%2F12%2Fmalan-coffee.jpg"></article>]]></description>
+            <link>http://malandarras.com</link>
+            <guid isPermaLink="false">a81d1a8a-b998-4ee2-851e-74bd45c96596</guid>
+            <pubDate>Sat, 06 Aug 2016 20:24:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[iAmAttila]]></title>
             <description><![CDATA[<article><h1>iAmAttila</h1><p>This dude puts out some really good stuff so keep an eye on this one. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a037f81618ef4d58154419a57797a26e/noop.jpg?input=http%3A%2F%2Fiamattila.com%2Fwp-content%2Fuploads%2F2016%2F06%2Ffacebook-monetization-750x300.jpg"></article>]]></description>
             <link>http://iamattila.com</link>
             <guid isPermaLink="false">952e6c78-451a-42e3-8fdd-b548e6bf900e</guid>
             <pubDate>Sat, 06 Aug 2016 20:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Music / Marketing / Madness]]></title>
-            <description><![CDATA[<article><h1>Music / Marketing / Madness</h1><p>You dont follow Malan? You are missing out. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dca5d4f88035edcfe283ad82f541aeae/noop.jpg?input=http%3A%2F%2Fwww.malandarras.com%2Fwp-content%2Fuploads%2F2013%2F12%2Fmalan-coffee.jpg"></article>]]></description>
-            <link>http://malandarras.com</link>
-            <guid isPermaLink="false">a81d1a8a-b998-4ee2-851e-74bd45c96596</guid>
-            <pubDate>Sat, 06 Aug 2016 20:23:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
