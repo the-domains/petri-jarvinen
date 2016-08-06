@@ -26,6 +26,9 @@ navigation:
   - name: Follow These
     id: 952e6c78-451a-42e3-8fdd-b548e6bf900e
     type: content
+  - name: Follow These
+    id: a81d1a8a-b998-4ee2-851e-74bd45c96596
+    type: content
 title: PJ
 description: Really.
 purpose: []
