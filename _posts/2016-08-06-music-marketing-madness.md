@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-08-06T20:24:56.765Z'
+datePublished: '2016-08-06T20:33:07.648Z'
 sourcePath: _posts/2016-08-06-music-marketing-madness.md
-isBasedOnUrl: 'http://malandarras.com'
 keywords:
   - ideas
   - inbox
@@ -16,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-06T20:24:56.002Z'
+dateModified: '2016-08-06T20:33:06.890Z'
 title: Music / Marketing / Madness
 app_links: []
 publisher:
@@ -27,10 +26,9 @@ publisher:
   domain: malandarras.com
 description: You dont follow Malan? You are missing out.
 inLanguage: en
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: music-marketing-madness/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
