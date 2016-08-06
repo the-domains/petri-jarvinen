@@ -4,7 +4,7 @@
         <description><![CDATA[Petri Jarvinen]]></description>
         <link>http://petrijarvinen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 18:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 20:16:50 GMT</lastBuildDate>
         <atom:link href="http://petrijarvinen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://petrijarvinen.com/072160fc-8d89-4884-a379-57b01e075b22/index.html</link>
             <guid isPermaLink="false">072160fc-8d89-4884-a379-57b01e075b22</guid>
             <pubDate>Sat, 05 Mar 2016 13:52:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://fbcdn-photos-d-a.akamaihd.net/hphotos-ak-xfl1/v/t1.0-0/s480x480/12809680_566834696807681_6987120492747056310_n.jpg?oh=83e4492b5008f5589862be0d1bc0cc43&oe=57BF1071&__gda__=1472009836_2fadb2e4e3e523f72ff50619b2137143">]]></description>
-            <link>http://petrijarvinen.com/cb24a627-6a93-44e4-a185-d89dd5f8de50/index.html</link>
-            <guid isPermaLink="false">cb24a627-6a93-44e4-a185-d89dd5f8de50</guid>
-            <pubDate>Sat, 02 Apr 2016 18:24:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
