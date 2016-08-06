@@ -22,6 +22,10 @@ author:
   url: 'http://petrijarvinen.com'
 name: Petri Jarvinen
 cta: {}
+navigation:
+  - name: Follow These
+    id: 952e6c78-451a-42e3-8fdd-b548e6bf900e
+    type: content
 title: PJ
 description: Really.
 purpose: []
