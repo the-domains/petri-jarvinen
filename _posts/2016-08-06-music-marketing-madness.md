@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-06T20:33:07.648Z'
+datePublished: '2016-08-06T20:39:29.867Z'
 sourcePath: _posts/2016-08-06-music-marketing-madness.md
 keywords:
   - ideas
@@ -15,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-06T20:33:06.890Z'
+dateModified: '2016-08-06T20:39:29.669Z'
 title: Music / Marketing / Madness
 app_links: []
 publisher:
