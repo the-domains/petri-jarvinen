@@ -10,7 +10,8 @@ color:
   lightness: 0.4375
   rhythmicContrast: 0.75
   saturation: 0.3125
-opengraph: {}
+opengraph:
+  appId: 'https://www.facebook.com/jarvinen.se'
 layout_spectrum: 0.359375
 analytics:
   facebook: '1534878076823920'
